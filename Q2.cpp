@@ -1,3 +1,4 @@
+//Day 2 coding Statement : Write a program to identify if the character is an alphabet or not.
 #include<iostream>
 using namespace std;
 int main()
